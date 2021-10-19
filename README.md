@@ -62,3 +62,5 @@ const operaciones = [
 7. Recorre con un filter operaciones y guarda el array resultante con el nombre `filtroOperaciones`. El array nuevo debera tener solo aquellas operaciones cuyo monto sea mayor a 3000. 
 
 8. Recorre con un filter operaciones y guarda el array resultante con el nombre `ganancias`. El array nuevo debera tener solo aquellas operaciones cuyo tipo sea "Ganancia" en lugar de "Gastos". 
+
+9. Recorre con un map operaciones y guarda en una nueva variable `totalGastos` la suma de todos los montos de los objetos cuyo tipo sea "gasto" (Pista: vas a necesitar una acumuladora) 
